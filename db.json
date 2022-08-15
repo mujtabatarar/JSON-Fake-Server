@@ -1,0 +1,272 @@
+{
+  "user": [
+    {
+      "name": "danial",
+      "email": "danialkhan69@gmail.com",
+      "password": "03334423909",
+      "id": 1
+    },
+    {
+      "name": "mujtaba",
+      "email": "mujtabatarar@gmail.com",
+      "password": "03334423909",
+      "id": 2
+    },
+    {
+      "email": "rima@gmail.com",
+      "name": "Rima",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "email": "rima@gmail.com",
+      "name": "Rima",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "email": "rima@gmail.com",
+      "name": "Rima",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 7
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 8
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 11
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 12
+    },
+    {
+      "email": "rino@gmail.com",
+      "name": "rino",
+      "password": "123",
+      "id": 13
+    },
+    {
+      "email": "RINO@GMAIL.COM",
+      "name": "RINO",
+      "password": "11111",
+      "id": 14
+    },
+    {
+      "email": "RINO@GMAIL.COM",
+      "name": "RINO",
+      "password": "11111",
+      "id": 15
+    },
+    {
+      "email": "sd",
+      "name": "ttt",
+      "password": "222",
+      "id": 16
+    },
+    {
+      "email": "sd",
+      "name": "ttt",
+      "password": "222",
+      "id": 17
+    },
+    {
+      "email": "1",
+      "name": "a",
+      "password": "3",
+      "id": 18
+    },
+    {
+      "email": "1",
+      "name": "a",
+      "password": "3",
+      "id": 19
+    },
+    {
+      "email": "1",
+      "name": "a",
+      "password": "3",
+      "id": 20
+    },
+    {
+      "email": "1",
+      "name": "a",
+      "password": "3",
+      "id": 21
+    },
+    {
+      "email": "2",
+      "name": "12",
+      "password": "33",
+      "id": 22
+    },
+    {
+      "email": "2",
+      "name": "1",
+      "password": "333",
+      "id": 23
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 24
+    },
+    {
+      "email": "2",
+      "name": "1",
+      "password": "3",
+      "id": 25
+    },
+    {
+      "email": "2",
+      "name": "1",
+      "password": "3",
+      "id": 26
+    },
+    {
+      "email": "2",
+      "name": "1",
+      "password": "3333333",
+      "id": 27
+    },
+    {
+      "email": "2",
+      "name": "1",
+      "password": "3",
+      "id": 28
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 29
+    },
+    {
+      "email": "",
+      "name": "",
+      "password": "",
+      "id": 30
+    },
+    {
+      "email": "mansd",
+      "name": "name",
+      "password": "asd",
+      "id": 31
+    }
+  ],
+  "restaurent": [
+    {
+      "name": "KFC",
+      "location": "johar town lahore",
+      "contact": "042350001000",
+      "openingTime": "11:00 AM",
+      "closinGTime": "01:00 PM",
+      "id": 3
+    },
+    {
+      "name": "Nisa Sultan",
+      "location": "Johar Town Lahore",
+      "contact": "03334423909",
+      "openingTime": "11:00 AM",
+      "closinGTime": "02:00 AM",
+      "id": 4
+    },
+    {
+      "name": "Desi Dhaba",
+      "location": "MM Alam road lahore",
+      "contact": "04238989898",
+      "openingTime": "11:00 AM",
+      "closingTime": "02:00 AM",
+      "id": 5
+    },
+    {
+      "name": "Village Restaurent",
+      "location": "MM ALAM ROAD LAHORE",
+      "contact": "042300000000",
+      "openingTime": "11:00 AM",
+      "closingTime": "02:00 AM",
+      "id": 6
+    },
+    {
+      "name": "Lahore Baranda",
+      "location": "MM ALAM ROAD ",
+      "contact": "04237498989",
+      "openingTime": "02:00 PM",
+      "closinGTime": "02:00 PM",
+      "id": 7
+    },
+    {
+      "name": "Pakistan dhaba",
+      "location": "Lahore",
+      "contact": "03333333333",
+      "openingTime": "03:00 PM",
+      "closingTime": "01:00 AM",
+      "id": 8
+    },
+    {
+      "name": "KAKA MAKA RESTAURENT",
+      "location": "UNDERGROUND",
+      "contact": "03333333222",
+      "openingTime": "03:00 AM",
+      "closingTime": "02:00 PM",
+      "id": 9
+    },
+    {
+      "name": "COCO DEN",
+      "location": "Lahore",
+      "contact": "04235555555",
+      "openingTime": "02:00 PM",
+      "closingTime": "01:00 AM",
+      "id": 10
+    },
+    {
+      "name": "Pakistan Tea House",
+      "location": "Lahore",
+      "contact": "0423111000111",
+      "openingTime": "10:30 AM",
+      "closingTime": "11:00 PM",
+      "id": 12
+    },
+    {
+      "name": "KFC",
+      "location": "joharrrr town",
+      "contact": "042350001000",
+      "openingTime": "11:00 AM",
+      "closingTime": "1:00 PM",
+      "id": 13
+    }
+  ]
+}
